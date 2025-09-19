@@ -1,20 +1,20 @@
- 👋 Hi there, I'm Rudzani
+ Hi there, I'm Rudzani
 
 I'm a 20-year-old aspiring  Full-Stack Web Developer and Cybersecurity Analyst based in South Africa.
 
-🚀 What I'm Working On
+What I'm Working On
 - Learning full-stack development through [The Odin Project](https://www.theodinproject.com/)
 - Building real-world apps using HTML, CSS, JavaScript, and React
 - Exploring cybersecurity through [TryHackMe](https://tryhackme.com/)
 - Practicing Linux, networking, and ethical hacking basics
 
-🎯 Goals for 2025
+Goals for 2025
 - Land my first paid tech job (remote or local)
 - Build and deploy 5+ portfolio projects
 - Complete the Pre-Security & Intro to Cybersecurity paths on TryHackMe
 - Start freelancing or internship in web or security
 
-## 🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 <!-- 💻 Full-Stack Development (Odin Project) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
