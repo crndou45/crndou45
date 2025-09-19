@@ -1,6 +1,6 @@
  Hi there, I'm Rudzani
 
-I'm a 20-year-old aspiring  Full-Stack Web Developer and Cybersecurity Analyst based in South Africa.
+I'm a 20-year-old aspiring Cybersecurity Analyst based in South Africa.
 
 What I'm Working On
 - Learning full-stack development through [The Odin Project](https://www.theodinproject.com/)
